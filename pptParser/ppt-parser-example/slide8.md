@@ -1,6 +1,6 @@
 # ppt-parser
 
-![Untitled](ppt-parser%206a469702c6b544df8a1f45c3f364331d/Untitled.png)
+![Untitled](./img/slide8img.png)
 
 ```
 "powerPointElements": [
