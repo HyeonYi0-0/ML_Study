@@ -1,0 +1,2111 @@
+[
+  {
+    "name": "RectangleShape",
+    "shapeType": "rect",
+    "specialityType": "None",
+    "elementPosition": {
+      "x": "838200",
+      "y": "1690688"
+    },
+    "elementOffsetPosition": {
+      "cx": "997600",
+      "cy": "731209"
+    },
+    "paragraph": null,
+    "shape": {
+      "fill": {
+        "fillType": "Solid",
+        "fillColor": "4472C4"
+      },
+      "border": null,
+      "opacity": 1
+    },
+    "links": null,
+    "raw": {
+      "p:nvSpPr": [
+        {
+          "p:cNvPr": [
+            {
+              "$": {
+                "id": "4",
+                "name": "Rectangle 3",
+                "title": "RectangleShape"
+              },
+              "a:extLst": [
+                {
+                  "a:ext": [
+                    {
+                      "$": {
+                        "uri": "{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}"
+                      },
+                      "a16:creationId": [
+                        {
+                          "$": {
+                            "xmlns:a16": "http://schemas.microsoft.com/office/drawing/2014/main",
+                            "id": "{ED8AE9A4-1E74-0E45-AAB0-C5F57FC93E14}"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "p:cNvSpPr": [
+            ""
+          ],
+          "p:nvPr": [
+            ""
+          ]
+        }
+      ],
+      "p:spPr": [
+        {
+          "a:xfrm": [
+            {
+              "a:off": [
+                {
+                  "$": {
+                    "x": "838200",
+                    "y": "1690688"
+                  }
+                }
+              ],
+              "a:ext": [
+                {
+                  "$": {
+                    "cx": "997600",
+                    "cy": "731209"
+                  }
+                }
+              ]
+            }
+          ],
+          "a:prstGeom": [
+            {
+              "$": {
+                "prst": "rect"
+              },
+              "a:avLst": [
+                ""
+              ]
+            }
+          ]
+        }
+      ],
+      "p:style": [
+        {
+          "a:lnRef": [
+            {
+              "$": {
+                "idx": "2"
+              },
+              "a:schemeClr": [
+                {
+                  "$": {
+                    "val": "accent1"
+                  },
+                  "a:shade": [
+                    {
+                      "$": {
+                        "val": "50000"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "a:fillRef": [
+            {
+              "$": {
+                "idx": "1"
+              },
+              "a:schemeClr": [
+                {
+                  "$": {
+                    "val": "accent1"
+                  }
+                }
+              ]
+            }
+          ],
+          "a:effectRef": [
+            {
+              "$": {
+                "idx": "0"
+              },
+              "a:schemeClr": [
+                {
+                  "$": {
+                    "val": "accent1"
+                  }
+                }
+              ]
+            }
+          ],
+          "a:fontRef": [
+            {
+              "$": {
+                "idx": "minor"
+              },
+              "a:schemeClr": [
+                {
+                  "$": {
+                    "val": "lt1"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "p:txBody": [
+        {
+          "a:bodyPr": [
+            {
+              "$": {
+                "rtlCol": "0",
+                "anchor": "ctr"
+              }
+            }
+          ],
+          "a:lstStyle": [
+            ""
+          ],
+          "a:p": [
+            {
+              "a:pPr": [
+                {
+                  "$": {
+                    "algn": "ctr"
+                  }
+                }
+              ],
+              "a:endParaRPr": [
+                {
+                  "$": {
+                    "lang": "en-US",
+                    "dirty": "0"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "name": "CircleShape",
+    "shapeType": "ellipse",
+    "specialityType": "None",
+    "elementPosition": {
+      "x": "2349062",
+      "y": "1607853"
+    },
+    "elementOffsetPosition": {
+      "cx": "896880",
+      "cy": "896880"
+    },
+    "paragraph": null,
+    "shape": {
+      "fill": {
+        "fillType": "Solid",
+        "fillColor": "4472C4"
+      },
+      "border": null,
+      "opacity": 1
+    },
+    "links": null,
+    "raw": {
+      "p:nvSpPr": [
+        {
+          "p:cNvPr": [
+            {
+              "$": {
+                "id": "5",
+                "name": "Oval 4",
+                "title": "CircleShape"
+              },
+              "a:extLst": [
+                {
+                  "a:ext": [
+                    {
+                      "$": {
+                        "uri": "{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}"
+                      },
+                      "a16:creationId": [
+                        {
+                          "$": {
+                            "xmlns:a16": "http://schemas.microsoft.com/office/drawing/2014/main",
+                            "id": "{C1D7C131-7B74-714E-9274-9211AD7F38F1}"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "p:cNvSpPr": [
+            ""
+          ],
+          "p:nvPr": [
+            ""
+          ]
+        }
+      ],
+      "p:spPr": [
+        {
+          "a:xfrm": [
+            {
+              "a:off": [
+                {
+                  "$": {
+                    "x": "2349062",
+                    "y": "1607853"
+                  }
+                }
+              ],
+              "a:ext": [
+                {
+                  "$": {
+                    "cx": "896880",
+                    "cy": "896880"
+                  }
+                }
+              ]
+            }
+          ],
+          "a:prstGeom": [
+            {
+              "$": {
+                "prst": "ellipse"
+              },
+              "a:avLst": [
+                ""
+              ]
+            }
+          ]
+        }
+      ],
+      "p:style": [
+        {
+          "a:lnRef": [
+            {
+              "$": {
+                "idx": "2"
+              },
+              "a:schemeClr": [
+                {
+                  "$": {
+                    "val": "accent1"
+                  },
+                  "a:shade": [
+                    {
+                      "$": {
+                        "val": "50000"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "a:fillRef": [
+            {
+              "$": {
+                "idx": "1"
+              },
+              "a:schemeClr": [
+                {
+                  "$": {
+                    "val": "accent1"
+                  }
+                }
+              ]
+            }
+          ],
+          "a:effectRef": [
+            {
+              "$": {
+                "idx": "0"
+              },
+              "a:schemeClr": [
+                {
+                  "$": {
+                    "val": "accent1"
+                  }
+                }
+              ]
+            }
+          ],
+          "a:fontRef": [
+            {
+              "$": {
+                "idx": "minor"
+              },
+              "a:schemeClr": [
+                {
+                  "$": {
+                    "val": "lt1"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "p:txBody": [
+        {
+          "a:bodyPr": [
+            {
+              "$": {
+                "rtlCol": "0",
+                "anchor": "ctr"
+              }
+            }
+          ],
+          "a:lstStyle": [
+            ""
+          ],
+          "a:p": [
+            {
+              "a:pPr": [
+                {
+                  "$": {
+                    "algn": "ctr"
+                  }
+                }
+              ],
+              "a:endParaRPr": [
+                {
+                  "$": {
+                    "lang": "en-US"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "name": "RoundedRectangle",
+    "shapeType": "roundRect",
+    "specialityType": "None",
+    "elementPosition": {
+      "x": "3759204",
+      "y": "1621198"
+    },
+    "elementOffsetPosition": {
+      "cx": "1331314",
+      "cy": "870188"
+    },
+    "paragraph": null,
+    "shape": {
+      "fill": {
+        "fillType": "Solid",
+        "fillColor": "4472C4"
+      },
+      "border": null,
+      "opacity": 1
+    },
+    "links": null,
+    "raw": {
+      "p:nvSpPr": [
+        {
+          "p:cNvPr": [
+            {
+              "$": {
+                "id": "6",
+                "name": "Rounded Rectangle 5",
+                "title": "RoundedRectangle"
+              },
+              "a:extLst": [
+                {
+                  "a:ext": [
+                    {
+                      "$": {
+                        "uri": "{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}"
+                      },
+                      "a16:creationId": [
+                        {
+                          "$": {
+                            "xmlns:a16": "http://schemas.microsoft.com/office/drawing/2014/main",
+                            "id": "{374EDF48-6E88-1649-92E1-7B60091DBE6A}"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "p:cNvSpPr": [
+            ""
+          ],
+          "p:nvPr": [
+            ""
+          ]
+        }
+      ],
+      "p:spPr": [
+        {
+          "a:xfrm": [
+            {
+              "a:off": [
+                {
+                  "$": {
+                    "x": "3759204",
+                    "y": "1621198"
+                  }
+                }
+              ],
+              "a:ext": [
+                {
+                  "$": {
+                    "cx": "1331314",
+                    "cy": "870188"
+                  }
+                }
+              ]
+            }
+          ],
+          "a:prstGeom": [
+            {
+              "$": {
+                "prst": "roundRect"
+              },
+              "a:avLst": [
+                ""
+              ]
+            }
+          ]
+        }
+      ],
+      "p:style": [
+        {
+          "a:lnRef": [
+            {
+              "$": {
+                "idx": "2"
+              },
+              "a:schemeClr": [
+                {
+                  "$": {
+                    "val": "accent1"
+                  },
+                  "a:shade": [
+                    {
+                      "$": {
+                        "val": "50000"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "a:fillRef": [
+            {
+              "$": {
+                "idx": "1"
+              },
+              "a:schemeClr": [
+                {
+                  "$": {
+                    "val": "accent1"
+                  }
+                }
+              ]
+            }
+          ],
+          "a:effectRef": [
+            {
+              "$": {
+                "idx": "0"
+              },
+              "a:schemeClr": [
+                {
+                  "$": {
+                    "val": "accent1"
+                  }
+                }
+              ]
+            }
+          ],
+          "a:fontRef": [
+            {
+              "$": {
+                "idx": "minor"
+              },
+              "a:schemeClr": [
+                {
+                  "$": {
+                    "val": "lt1"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "p:txBody": [
+        {
+          "a:bodyPr": [
+            {
+              "$": {
+                "rtlCol": "0",
+                "anchor": "ctr"
+              }
+            }
+          ],
+          "a:lstStyle": [
+            ""
+          ],
+          "a:p": [
+            {
+              "a:pPr": [
+                {
+                  "$": {
+                    "algn": "ctr"
+                  }
+                }
+              ],
+              "a:endParaRPr": [
+                {
+                  "$": {
+                    "lang": "en-US"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "name": "Triangle",
+    "shapeType": "triangle",
+    "specialityType": "None",
+    "elementPosition": {
+      "x": "5607269",
+      "y": "1621198"
+    },
+    "elementOffsetPosition": {
+      "cx": "977462",
+      "cy": "842640"
+    },
+    "paragraph": null,
+    "shape": {
+      "fill": {
+        "fillType": "Solid",
+        "fillColor": "4472C4"
+      },
+      "border": null,
+      "opacity": 1
+    },
+    "links": null,
+    "raw": {
+      "p:nvSpPr": [
+        {
+          "p:cNvPr": [
+            {
+              "$": {
+                "id": "7",
+                "name": "Triangle 6",
+                "title": "Triangle"
+              },
+              "a:extLst": [
+                {
+                  "a:ext": [
+                    {
+                      "$": {
+                        "uri": "{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}"
+                      },
+                      "a16:creationId": [
+                        {
+                          "$": {
+                            "xmlns:a16": "http://schemas.microsoft.com/office/drawing/2014/main",
+                            "id": "{073B1A53-10E1-684C-A9C7-B2C51F21E2B5}"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "p:cNvSpPr": [
+            ""
+          ],
+          "p:nvPr": [
+            ""
+          ]
+        }
+      ],
+      "p:spPr": [
+        {
+          "a:xfrm": [
+            {
+              "a:off": [
+                {
+                  "$": {
+                    "x": "5607269",
+                    "y": "1621198"
+                  }
+                }
+              ],
+              "a:ext": [
+                {
+                  "$": {
+                    "cx": "977462",
+                    "cy": "842640"
+                  }
+                }
+              ]
+            }
+          ],
+          "a:prstGeom": [
+            {
+              "$": {
+                "prst": "triangle"
+              },
+              "a:avLst": [
+                ""
+              ]
+            }
+          ]
+        }
+      ],
+      "p:style": [
+        {
+          "a:lnRef": [
+            {
+              "$": {
+                "idx": "2"
+              },
+              "a:schemeClr": [
+                {
+                  "$": {
+                    "val": "accent1"
+                  },
+                  "a:shade": [
+                    {
+                      "$": {
+                        "val": "50000"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "a:fillRef": [
+            {
+              "$": {
+                "idx": "1"
+              },
+              "a:schemeClr": [
+                {
+                  "$": {
+                    "val": "accent1"
+                  }
+                }
+              ]
+            }
+          ],
+          "a:effectRef": [
+            {
+              "$": {
+                "idx": "0"
+              },
+              "a:schemeClr": [
+                {
+                  "$": {
+                    "val": "accent1"
+                  }
+                }
+              ]
+            }
+          ],
+          "a:fontRef": [
+            {
+              "$": {
+                "idx": "minor"
+              },
+              "a:schemeClr": [
+                {
+                  "$": {
+                    "val": "lt1"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "p:txBody": [
+        {
+          "a:bodyPr": [
+            {
+              "$": {
+                "rtlCol": "0",
+                "anchor": "ctr"
+              }
+            }
+          ],
+          "a:lstStyle": [
+            ""
+          ],
+          "a:p": [
+            {
+              "a:pPr": [
+                {
+                  "$": {
+                    "algn": "ctr"
+                  }
+                }
+              ],
+              "a:endParaRPr": [
+                {
+                  "$": {
+                    "lang": "en-US"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "name": "RightTriangle",
+    "shapeType": "rtTriangle",
+    "specialityType": "None",
+    "elementPosition": {
+      "x": "7173310",
+      "y": "1621198"
+    },
+    "elementOffsetPosition": {
+      "cx": "842640",
+      "cy": "842640"
+    },
+    "paragraph": null,
+    "shape": {
+      "fill": {
+        "fillType": "Solid",
+        "fillColor": "4472C4"
+      },
+      "border": null,
+      "opacity": 1
+    },
+    "links": null,
+    "raw": {
+      "p:nvSpPr": [
+        {
+          "p:cNvPr": [
+            {
+              "$": {
+                "id": "10",
+                "name": "Right Triangle 9",
+                "title": "RightTriangle"
+              },
+              "a:extLst": [
+                {
+                  "a:ext": [
+                    {
+                      "$": {
+                        "uri": "{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}"
+                      },
+                      "a16:creationId": [
+                        {
+                          "$": {
+                            "xmlns:a16": "http://schemas.microsoft.com/office/drawing/2014/main",
+                            "id": "{5EE7855E-A97E-044B-8483-EE2D7FD53443}"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "p:cNvSpPr": [
+            ""
+          ],
+          "p:nvPr": [
+            ""
+          ]
+        }
+      ],
+      "p:spPr": [
+        {
+          "a:xfrm": [
+            {
+              "a:off": [
+                {
+                  "$": {
+                    "x": "7173310",
+                    "y": "1621198"
+                  }
+                }
+              ],
+              "a:ext": [
+                {
+                  "$": {
+                    "cx": "842640",
+                    "cy": "842640"
+                  }
+                }
+              ]
+            }
+          ],
+          "a:prstGeom": [
+            {
+              "$": {
+                "prst": "rtTriangle"
+              },
+              "a:avLst": [
+                ""
+              ]
+            }
+          ]
+        }
+      ],
+      "p:style": [
+        {
+          "a:lnRef": [
+            {
+              "$": {
+                "idx": "2"
+              },
+              "a:schemeClr": [
+                {
+                  "$": {
+                    "val": "accent1"
+                  },
+                  "a:shade": [
+                    {
+                      "$": {
+                        "val": "50000"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "a:fillRef": [
+            {
+              "$": {
+                "idx": "1"
+              },
+              "a:schemeClr": [
+                {
+                  "$": {
+                    "val": "accent1"
+                  }
+                }
+              ]
+            }
+          ],
+          "a:effectRef": [
+            {
+              "$": {
+                "idx": "0"
+              },
+              "a:schemeClr": [
+                {
+                  "$": {
+                    "val": "accent1"
+                  }
+                }
+              ]
+            }
+          ],
+          "a:fontRef": [
+            {
+              "$": {
+                "idx": "minor"
+              },
+              "a:schemeClr": [
+                {
+                  "$": {
+                    "val": "lt1"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "p:txBody": [
+        {
+          "a:bodyPr": [
+            {
+              "$": {
+                "rtlCol": "0",
+                "anchor": "ctr"
+              }
+            }
+          ],
+          "a:lstStyle": [
+            ""
+          ],
+          "a:p": [
+            {
+              "a:pPr": [
+                {
+                  "$": {
+                    "algn": "ctr"
+                  }
+                }
+              ],
+              "a:endParaRPr": [
+                {
+                  "$": {
+                    "lang": "en-US"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "name": "Octagon",
+    "shapeType": "octagon",
+    "specialityType": "None",
+    "elementPosition": {
+      "x": "8623738",
+      "y": "1481959"
+    },
+    "elementOffsetPosition": {
+      "cx": "1022774",
+      "cy": "1022774"
+    },
+    "paragraph": null,
+    "shape": {
+      "fill": {
+        "fillType": "Solid",
+        "fillColor": "4472C4"
+      },
+      "border": null,
+      "opacity": 1
+    },
+    "links": null,
+    "raw": {
+      "p:nvSpPr": [
+        {
+          "p:cNvPr": [
+            {
+              "$": {
+                "id": "11",
+                "name": "Octagon 10",
+                "title": "Octagon"
+              },
+              "a:extLst": [
+                {
+                  "a:ext": [
+                    {
+                      "$": {
+                        "uri": "{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}"
+                      },
+                      "a16:creationId": [
+                        {
+                          "$": {
+                            "xmlns:a16": "http://schemas.microsoft.com/office/drawing/2014/main",
+                            "id": "{E99CFDC1-6400-F548-8009-268ABB027EB2}"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "p:cNvSpPr": [
+            ""
+          ],
+          "p:nvPr": [
+            ""
+          ]
+        }
+      ],
+      "p:spPr": [
+        {
+          "a:xfrm": [
+            {
+              "a:off": [
+                {
+                  "$": {
+                    "x": "8623738",
+                    "y": "1481959"
+                  }
+                }
+              ],
+              "a:ext": [
+                {
+                  "$": {
+                    "cx": "1022774",
+                    "cy": "1022774"
+                  }
+                }
+              ]
+            }
+          ],
+          "a:prstGeom": [
+            {
+              "$": {
+                "prst": "octagon"
+              },
+              "a:avLst": [
+                ""
+              ]
+            }
+          ]
+        }
+      ],
+      "p:style": [
+        {
+          "a:lnRef": [
+            {
+              "$": {
+                "idx": "2"
+              },
+              "a:schemeClr": [
+                {
+                  "$": {
+                    "val": "accent1"
+                  },
+                  "a:shade": [
+                    {
+                      "$": {
+                        "val": "50000"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "a:fillRef": [
+            {
+              "$": {
+                "idx": "1"
+              },
+              "a:schemeClr": [
+                {
+                  "$": {
+                    "val": "accent1"
+                  }
+                }
+              ]
+            }
+          ],
+          "a:effectRef": [
+            {
+              "$": {
+                "idx": "0"
+              },
+              "a:schemeClr": [
+                {
+                  "$": {
+                    "val": "accent1"
+                  }
+                }
+              ]
+            }
+          ],
+          "a:fontRef": [
+            {
+              "$": {
+                "idx": "minor"
+              },
+              "a:schemeClr": [
+                {
+                  "$": {
+                    "val": "lt1"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "p:txBody": [
+        {
+          "a:bodyPr": [
+            {
+              "$": {
+                "rtlCol": "0",
+                "anchor": "ctr"
+              }
+            }
+          ],
+          "a:lstStyle": [
+            ""
+          ],
+          "a:p": [
+            {
+              "a:pPr": [
+                {
+                  "$": {
+                    "algn": "ctr"
+                  }
+                }
+              ],
+              "a:endParaRPr": [
+                {
+                  "$": {
+                    "lang": "en-US"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "name": "CustomFrame",
+    "shapeType": "frame",
+    "specialityType": "None",
+    "elementPosition": {
+      "x": "10350991",
+      "y": "1443428"
+    },
+    "elementOffsetPosition": {
+      "cx": "1198179",
+      "cy": "1198179"
+    },
+    "paragraph": null,
+    "shape": {
+      "fill": {
+        "fillType": "Solid",
+        "fillColor": "4472C4"
+      },
+      "border": null,
+      "opacity": 1
+    },
+    "links": null,
+    "raw": {
+      "p:nvSpPr": [
+        {
+          "p:cNvPr": [
+            {
+              "$": {
+                "id": "12",
+                "name": "Frame 11",
+                "title": "CustomFrame"
+              },
+              "a:extLst": [
+                {
+                  "a:ext": [
+                    {
+                      "$": {
+                        "uri": "{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}"
+                      },
+                      "a16:creationId": [
+                        {
+                          "$": {
+                            "xmlns:a16": "http://schemas.microsoft.com/office/drawing/2014/main",
+                            "id": "{72F8F642-4FE2-4C47-824A-F991672A29BC}"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "p:cNvSpPr": [
+            ""
+          ],
+          "p:nvPr": [
+            ""
+          ]
+        }
+      ],
+      "p:spPr": [
+        {
+          "a:xfrm": [
+            {
+              "a:off": [
+                {
+                  "$": {
+                    "x": "10350991",
+                    "y": "1443428"
+                  }
+                }
+              ],
+              "a:ext": [
+                {
+                  "$": {
+                    "cx": "1198179",
+                    "cy": "1198179"
+                  }
+                }
+              ]
+            }
+          ],
+          "a:prstGeom": [
+            {
+              "$": {
+                "prst": "frame"
+              },
+              "a:avLst": [
+                {
+                  "a:gd": [
+                    {
+                      "$": {
+                        "name": "adj1",
+                        "fmla": "val 24342"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "p:style": [
+        {
+          "a:lnRef": [
+            {
+              "$": {
+                "idx": "2"
+              },
+              "a:schemeClr": [
+                {
+                  "$": {
+                    "val": "accent1"
+                  },
+                  "a:shade": [
+                    {
+                      "$": {
+                        "val": "50000"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "a:fillRef": [
+            {
+              "$": {
+                "idx": "1"
+              },
+              "a:schemeClr": [
+                {
+                  "$": {
+                    "val": "accent1"
+                  }
+                }
+              ]
+            }
+          ],
+          "a:effectRef": [
+            {
+              "$": {
+                "idx": "0"
+              },
+              "a:schemeClr": [
+                {
+                  "$": {
+                    "val": "accent1"
+                  }
+                }
+              ]
+            }
+          ],
+          "a:fontRef": [
+            {
+              "$": {
+                "idx": "minor"
+              },
+              "a:schemeClr": [
+                {
+                  "$": {
+                    "val": "lt1"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "p:txBody": [
+        {
+          "a:bodyPr": [
+            {
+              "$": {
+                "rtlCol": "0",
+                "anchor": "ctr"
+              }
+            }
+          ],
+          "a:lstStyle": [
+            ""
+          ],
+          "a:p": [
+            {
+              "a:pPr": [
+                {
+                  "$": {
+                    "algn": "ctr"
+                  }
+                }
+              ],
+              "a:endParaRPr": [
+                {
+                  "$": {
+                    "lang": "en-US"
+                  },
+                  "a:solidFill": [
+                    {
+                      "a:schemeClr": [
+                        {
+                          "$": {
+                            "val": "tx1"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "name": "Rectangle13",
+    "shapeType": "rect",
+    "specialityType": "None",
+    "elementPosition": {
+      "x": "838200",
+      "y": "3016251"
+    },
+    "elementOffsetPosition": {
+      "cx": "997600",
+      "cy": "731209"
+    },
+    "paragraph": null,
+    "shape": {
+      "fill": {
+        "fillType": "Solid",
+        "fillColor": "F44D6A"
+      },
+      "border": null,
+      "opacity": 1
+    },
+    "links": null,
+    "raw": {
+      "p:nvSpPr": [
+        {
+          "p:cNvPr": [
+            {
+              "$": {
+                "id": "14",
+                "name": "Rectangle 13"
+              },
+              "a:extLst": [
+                {
+                  "a:ext": [
+                    {
+                      "$": {
+                        "uri": "{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}"
+                      },
+                      "a16:creationId": [
+                        {
+                          "$": {
+                            "xmlns:a16": "http://schemas.microsoft.com/office/drawing/2014/main",
+                            "id": "{D0C016F1-AF3A-3D47-A301-1E20B1F6F424}"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "p:cNvSpPr": [
+            ""
+          ],
+          "p:nvPr": [
+            ""
+          ]
+        }
+      ],
+      "p:spPr": [
+        {
+          "a:xfrm": [
+            {
+              "a:off": [
+                {
+                  "$": {
+                    "x": "838200",
+                    "y": "3016251"
+                  }
+                }
+              ],
+              "a:ext": [
+                {
+                  "$": {
+                    "cx": "997600",
+                    "cy": "731209"
+                  }
+                }
+              ]
+            }
+          ],
+          "a:prstGeom": [
+            {
+              "$": {
+                "prst": "rect"
+              },
+              "a:avLst": [
+                ""
+              ]
+            }
+          ],
+          "a:solidFill": [
+            {
+              "a:srgbClr": [
+                {
+                  "$": {
+                    "val": "F44D6A"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "p:style": [
+        {
+          "a:lnRef": [
+            {
+              "$": {
+                "idx": "2"
+              },
+              "a:schemeClr": [
+                {
+                  "$": {
+                    "val": "accent1"
+                  },
+                  "a:shade": [
+                    {
+                      "$": {
+                        "val": "50000"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "a:fillRef": [
+            {
+              "$": {
+                "idx": "1"
+              },
+              "a:schemeClr": [
+                {
+                  "$": {
+                    "val": "accent1"
+                  }
+                }
+              ]
+            }
+          ],
+          "a:effectRef": [
+            {
+              "$": {
+                "idx": "0"
+              },
+              "a:schemeClr": [
+                {
+                  "$": {
+                    "val": "accent1"
+                  }
+                }
+              ]
+            }
+          ],
+          "a:fontRef": [
+            {
+              "$": {
+                "idx": "minor"
+              },
+              "a:schemeClr": [
+                {
+                  "$": {
+                    "val": "lt1"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "p:txBody": [
+        {
+          "a:bodyPr": [
+            {
+              "$": {
+                "rtlCol": "0",
+                "anchor": "ctr"
+              }
+            }
+          ],
+          "a:lstStyle": [
+            ""
+          ],
+          "a:p": [
+            {
+              "a:pPr": [
+                {
+                  "$": {
+                    "algn": "ctr"
+                  }
+                }
+              ],
+              "a:endParaRPr": [
+                {
+                  "$": {
+                    "lang": "en-US",
+                    "dirty": "0"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "name": "CircleOutlineShape",
+    "shapeType": "ellipse",
+    "specialityType": "None",
+    "elementPosition": {
+      "x": "2375201",
+      "y": "2933415"
+    },
+    "elementOffsetPosition": {
+      "cx": "896880",
+      "cy": "896880"
+    },
+    "paragraph": null,
+    "shape": {
+      "fill": {
+        "fillType": "Solid",
+        "fillColor": "4472C4"
+      },
+      "border": {
+        "color": "F44D6A",
+        "thickness": "38100",
+        "type": "solid"
+      },
+      "opacity": 1
+    },
+    "links": null,
+    "raw": {
+      "p:nvSpPr": [
+        {
+          "p:cNvPr": [
+            {
+              "$": {
+                "id": "15",
+                "name": "Oval 14",
+                "title": "CircleOutlineShape"
+              },
+              "a:extLst": [
+                {
+                  "a:ext": [
+                    {
+                      "$": {
+                        "uri": "{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}"
+                      },
+                      "a16:creationId": [
+                        {
+                          "$": {
+                            "xmlns:a16": "http://schemas.microsoft.com/office/drawing/2014/main",
+                            "id": "{0B00EFF6-4AAC-8A40-900C-E9C6E26F8072}"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "p:cNvSpPr": [
+            ""
+          ],
+          "p:nvPr": [
+            ""
+          ]
+        }
+      ],
+      "p:spPr": [
+        {
+          "a:xfrm": [
+            {
+              "a:off": [
+                {
+                  "$": {
+                    "x": "2375201",
+                    "y": "2933415"
+                  }
+                }
+              ],
+              "a:ext": [
+                {
+                  "$": {
+                    "cx": "896880",
+                    "cy": "896880"
+                  }
+                }
+              ]
+            }
+          ],
+          "a:prstGeom": [
+            {
+              "$": {
+                "prst": "ellipse"
+              },
+              "a:avLst": [
+                ""
+              ]
+            }
+          ],
+          "a:ln": [
+            {
+              "$": {
+                "w": "38100"
+              },
+              "a:solidFill": [
+                {
+                  "a:srgbClr": [
+                    {
+                      "$": {
+                        "val": "F44D6A"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "p:style": [
+        {
+          "a:lnRef": [
+            {
+              "$": {
+                "idx": "2"
+              },
+              "a:schemeClr": [
+                {
+                  "$": {
+                    "val": "accent1"
+                  },
+                  "a:shade": [
+                    {
+                      "$": {
+                        "val": "50000"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "a:fillRef": [
+            {
+              "$": {
+                "idx": "1"
+              },
+              "a:schemeClr": [
+                {
+                  "$": {
+                    "val": "accent1"
+                  }
+                }
+              ]
+            }
+          ],
+          "a:effectRef": [
+            {
+              "$": {
+                "idx": "0"
+              },
+              "a:schemeClr": [
+                {
+                  "$": {
+                    "val": "accent1"
+                  }
+                }
+              ]
+            }
+          ],
+          "a:fontRef": [
+            {
+              "$": {
+                "idx": "minor"
+              },
+              "a:schemeClr": [
+                {
+                  "$": {
+                    "val": "lt1"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "p:txBody": [
+        {
+          "a:bodyPr": [
+            {
+              "$": {
+                "rtlCol": "0",
+                "anchor": "ctr"
+              }
+            }
+          ],
+          "a:lstStyle": [
+            ""
+          ],
+          "a:p": [
+            {
+              "a:pPr": [
+                {
+                  "$": {
+                    "algn": "ctr"
+                  }
+                }
+              ],
+              "a:endParaRPr": [
+                {
+                  "$": {
+                    "lang": "en-US"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "name": "RoundedTransparentRectangle",
+    "shapeType": "roundRect",
+    "specialityType": "None",
+    "elementPosition": {
+      "x": "3754822",
+      "y": "2933415"
+    },
+    "elementOffsetPosition": {
+      "cx": "1331314",
+      "cy": "870188"
+    },
+    "paragraph": {
+      "text": "Transparent",
+      "textCharacterProperties": {
+        "size": "1600",
+        "fontAttributes": [],
+        "font": "Helvetica",
+        "fillColor": "000000"
+      },
+      "paragraphProperties": {
+        "alignment": "center"
+      }
+    },
+    "shape": {
+      "fill": {
+        "fillType": "Solid",
+        "fillColor": "4472C4"
+      },
+      "border": null,
+      "opacity": "0"
+    },
+    "links": null,
+    "raw": {
+      "p:nvSpPr": [
+        {
+          "p:cNvPr": [
+            {
+              "$": {
+                "id": "16",
+                "name": "Rounded Rectangle 15",
+                "title": "RoundedTransparentRectangle"
+              },
+              "a:extLst": [
+                {
+                  "a:ext": [
+                    {
+                      "$": {
+                        "uri": "{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}"
+                      },
+                      "a16:creationId": [
+                        {
+                          "$": {
+                            "xmlns:a16": "http://schemas.microsoft.com/office/drawing/2014/main",
+                            "id": "{2C2FA61B-3B18-4B45-88B6-F0DA6F135B13}"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "p:cNvSpPr": [
+            ""
+          ],
+          "p:nvPr": [
+            ""
+          ]
+        }
+      ],
+      "p:spPr": [
+        {
+          "a:xfrm": [
+            {
+              "a:off": [
+                {
+                  "$": {
+                    "x": "3754822",
+                    "y": "2933415"
+                  }
+                }
+              ],
+              "a:ext": [
+                {
+                  "$": {
+                    "cx": "1331314",
+                    "cy": "870188"
+                  }
+                }
+              ]
+            }
+          ],
+          "a:prstGeom": [
+            {
+              "$": {
+                "prst": "roundRect"
+              },
+              "a:avLst": [
+                ""
+              ]
+            }
+          ],
+          "a:solidFill": [
+            {
+              "a:schemeClr": [
+                {
+                  "$": {
+                    "val": "accent1"
+                  },
+                  "a:alpha": [
+                    {
+                      "$": {
+                        "val": "0"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "p:style": [
+        {
+          "a:lnRef": [
+            {
+              "$": {
+                "idx": "2"
+              },
+              "a:schemeClr": [
+                {
+                  "$": {
+                    "val": "accent1"
+                  },
+                  "a:shade": [
+                    {
+                      "$": {
+                        "val": "50000"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "a:fillRef": [
+            {
+              "$": {
+                "idx": "1"
+              },
+              "a:schemeClr": [
+                {
+                  "$": {
+                    "val": "accent1"
+                  }
+                }
+              ]
+            }
+          ],
+          "a:effectRef": [
+            {
+              "$": {
+                "idx": "0"
+              },
+              "a:schemeClr": [
+                {
+                  "$": {
+                    "val": "accent1"
+                  }
+                }
+              ]
+            }
+          ],
+          "a:fontRef": [
+            {
+              "$": {
+                "idx": "minor"
+              },
+              "a:schemeClr": [
+                {
+                  "$": {
+                    "val": "lt1"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "p:txBody": [
+        {
+          "a:bodyPr": [
+            {
+              "$": {
+                "rtlCol": "0",
+                "anchor": "ctr"
+              }
+            }
+          ],
+          "a:lstStyle": [
+            ""
+          ],
+          "a:p": [
+            {
+              "a:pPr": [
+                {
+                  "$": {
+                    "algn": "ctr"
+                  }
+                }
+              ],
+              "a:r": [
+                {
+                  "a:rPr": [
+                    {
+                      "$": {
+                        "lang": "en-US",
+                        "sz": "1600",
+                        "dirty": "0"
+                      },
+                      "a:ln": [
+                        {
+                          "$": {
+                            "w": "0"
+                          }
+                        }
+                      ],
+                      "a:solidFill": [
+                        {
+                          "a:schemeClr": [
+                            {
+                              "$": {
+                                "val": "tx1"
+                              }
+                            }
+                          ]
+                        }
+                      ],
+                      "a:effectLst": [
+                        {
+                          "a:outerShdw": [
+                            {
+                              "$": {
+                                "blurRad": "38100",
+                                "dist": "19050",
+                                "dir": "2700000",
+                                "algn": "tl",
+                                "rotWithShape": "0"
+                              },
+                              "a:schemeClr": [
+                                {
+                                  "$": {
+                                    "val": "dk1"
+                                  },
+                                  "a:alpha": [
+                                    {
+                                      "$": {
+                                        "val": "40000"
+                                      }
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ],
+                  "a:t": [
+                    "Transparent"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+]
